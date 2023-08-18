@@ -1,2 +1,7 @@
 .venv/
 test.py
+leopards.yaml
+requirements.txt
+save_test.npy
+save_txtarr.csv
+tigers.yaml
